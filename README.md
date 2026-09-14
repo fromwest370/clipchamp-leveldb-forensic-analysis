@@ -2,7 +2,7 @@
 
 ## 概要
 
-このリポジトリで実際に動作するツールは `clipchamp_filename_extractor.py` です。
+このリポジトリで実際に動作するツールは  `clipchamp_filename_extractor.py`  です。
 Clipchampの削除済みプロジェクトが残すLevelDBログから、使用されていた動画ファイル名と
 その出現回数をワンコマンドで抽出できます。
 
